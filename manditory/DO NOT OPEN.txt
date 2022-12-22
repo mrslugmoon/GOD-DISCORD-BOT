@@ -1,0 +1,5 @@
+set.activity"online"
+set.presence("Made by Slug")
+
+
+const = run:"node ."

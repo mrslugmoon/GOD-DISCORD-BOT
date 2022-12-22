@@ -1,0 +1,5 @@
+Welcome to the GOD DISCORD BOT, please enter your bot's discord token below.
+
+
+
+client.login("")
